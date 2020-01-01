@@ -7,4 +7,4 @@ Using the Stack Exchange API, GET HTTP requests were made for questions tagged a
 
 ## Results
 
-![R vs Pandas Popularity Graph](/Stack Exchange Popularity Graph.png)
+![R vs Pandas Popularity Graph](/Stack_Exchange_Popularity_Graph.png)
